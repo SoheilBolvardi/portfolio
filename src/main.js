@@ -249,7 +249,7 @@ document.querySelector('#app').innerHTML = `
 
               <p class="project-meta">Summer 2026</p>
 
-              <h3>Speech and Siren Filtering</h3>
+              <h3>Frequency-Domain Audio Processing</h3>
 
               <p>
                 MATLAB project involving Fourier analysis and FFT-based
