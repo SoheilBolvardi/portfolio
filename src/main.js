@@ -427,7 +427,7 @@ document.querySelector('#app').innerHTML = `
         <h2>Contact</h2>
 
         <div class="contact-links">
-          <a href="mailto: soheil.bolvardi@ee.sharif.ir">
+          <a href="mailto: soheilbolvardi85@gmail.com">
             Email
           </a>
 
