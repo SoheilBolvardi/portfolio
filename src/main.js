@@ -314,7 +314,7 @@ document.querySelector('#app').innerHTML = `
                 Probability Theory · Mathematical Proof
               </p>
 
-              <p class="project-meta">Winter 2025–2026</p>
+              <p class="project-meta">Winter 2026</p>
 
               <h3>Tanaka’s Central Limit Theorem</h3>
 
@@ -427,7 +427,7 @@ document.querySelector('#app').innerHTML = `
         <h2>Contact</h2>
 
         <div class="contact-links">
-          <a href="mailto: soheilbolvardi85@gmail.com">
+          <a href="mailto:soheilbolvardi85@gmail.com">
             Email
           </a>
 
